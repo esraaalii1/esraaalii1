@@ -74,6 +74,5 @@ Currently, I’m focused on enhancing my skills in **clean architecture**, **clo
   </a>
 </p>
 
----
 
-⭐️ From [@somaaali](https://github.com/somaaali)
+
